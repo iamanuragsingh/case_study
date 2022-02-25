@@ -1,0 +1,19 @@
+###### Requirements without Version Specifiers ######`
+Pandas 
+Numpy
+count
+Standard
+train_test_split
+preprocessing
+metrics
+seaborn
+Workbook
+LogisticRegression
+classification_report, confusion_matrix
+LabelEncoder
+DecisionTreeClassifier
+plot_tree
+tree
+torch-geometric
+torch-sparse
+torch-scatter
