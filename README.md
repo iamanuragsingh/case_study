@@ -1,7 +1,3 @@
-# case-study-1-october2020-beyond-analytics
-case-study-1-october2020-beyond-analytics created by GitHub Classroom
-
-
 # Anti Money Laundering Machine Learning & Deep Learning
 
 This repository contains 2 Machine Learning & 1 Deep Learning Model to implement money laundering fraud detection. We have used Logistic Regression, Decision Tree and Graphical Neural Network (Node classification and Graph Classification) Models in the case study. Additionally we have also implemented Rule based model which will always check for certain rules before passing the data to any of the models and raise an suspicious alert on the particular accounts. In this project we have created a synthetic bank transaction data, which represents various fraud and non-fraud patterns of bank transactions. In the end our model predicts, whether the transaction is Fraud or Non-Fraud.
